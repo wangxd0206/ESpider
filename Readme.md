@@ -4,26 +4,6 @@
 
 A visual browser automation test/data collection/crawler software, which can be used to design and execute tasks in a code-free visual way. You only need to select the content you want to operate on the web page and follow the prompts to complete the design and execution of the task. At the same time, the software can also be executed separately in the command line, so that it can be easily embedded into other systems.
 
-## 赞助者/Sponsors
-
-<a target="_blank" href="https://get.brightdata.com/naibowang"><img src="media/BrightData.png" width=250></img></a>
-
-[亮数据BrightData](https://get.brightdata.com/naibowang)是代理市场领导者，覆盖全球的7200万IP，提供真人住宅IP，即时批量采集网络公开数据，成功率亲测有保证。需要性价比高代理IP的可**点击上方图片注册**后联系中文客服，开通后免费试用，**最高可得250美金折扣**。BrightData可配合EasySpider进行数据采集。
-
-<a target="_blank" href="https://www.capsolver.com/zh?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider"><img src="media/capsolver.jpg" width=400></img></a>
-
-<!-- [![Capsolver](media/capsolver.jpg)](https://www.capsolver.com/zh?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider) -->
-
-[Capsolver.com](https://www.capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider) is an AI-powered service that specializes in solving various types of captchas automatically. It supports captchas such as [reCAPTCHA V2](https://docs.capsolver.com/guide/captcha/ReCaptchaV2.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [reCAPTCHA V3](https://docs.capsolver.com/guide/captcha/ReCaptchaV3.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [hCaptcha](https://docs.capsolver.com/guide/captcha/HCaptcha.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [FunCaptcha](https://docs.capsolver.com/guide/captcha/FunCaptcha.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [DataDome](https://docs.capsolver.com/guide/captcha/DataDome.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [AWS Captcha](https://docs.capsolver.com/guide/captcha/awsWaf.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [Geetest](https://docs.capsolver.com/guide/captcha/Geetest.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), and Cloudflare [Captcha](https://docs.capsolver.com/guide/antibots/cloudflare_turnstile.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider) / [Challenge 5s](https://docs.capsolver.com/guide/antibots/cloudflare_challenge.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), [Imperva / Incapsula](https://docs.capsolver.com/guide/antibots/imperva.html?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), among others.
-For developers, Capsolver offers API integration options detailed in their [documentation](https://docs.capsolver.com/?utm_source=github&utm_medium=banner_github&utm_campaign=easyspider), facilitating the integration of captcha solving into applications. They also provide browser extensions for [Chrome](https://chromewebstore.google.com/detail/captcha-solver-auto-captc/pgojnojmmhpofjgdmaebadhbocahppod) and [Firefox](https://addons.mozilla.org/es/firefox/addon/capsolver-captcha-solver/), making it easy to use their service directly within a browser. Different pricing packages are available to accommodate varying needs, ensuring flexibility for users.
-
-
-## 官方网站/Official Website
-
-访问易采集官网：www.easyspider.cn
-
-Visit the official website of EasySpider: www.easyspider.net
-
 ### 示例1/Example 1
 
 （右键）选中一个大商品块 -> 软件自动检测到同类型商品块 -> 点击“选中全部”选项 -> 点击“选中子元素”选项 -> 点击“采集数据”选项，即可采集到所有商品的所有信息，并分成不同字段保存。
@@ -49,26 +29,6 @@ At the same time, if you select the 'Loop-click every element' option after sele
 更多特性请翻到页面底部查看。
 
 More features please scroll to the bottom of this page to view.
-
-## 下载易采集/Download EasySpider
-
-进入 [Releases Page](https://github.com/NaiboWang/EasySpider/releases) 下载最新版本。如果下载速度慢，可以考虑中国境内下载地址：[中国境内下载地址](https://www.easyspider.cn/download.html)。
-
-Refer to the [Releases Page](https://github.com/NaiboWang/EasySpider/releases) to download the latest version of EasySpider.
-
-## 支持作者/Support Author
-
-易采集EasySpider是一款完全免费无广告的开源软件，软件开发和维护全靠作者用爱发电，因此您可以选择支持作者让作者有更多的热情和精力维护此软件，或者您使用了此软件进行了盈利，欢迎您通过下面的方式支持作者：
-
-1. Github Sponsor：直接点击右侧**Sponsor**按钮赞助。
-2. 支付宝账号：naibowang@foxmail.com，也可以扫描下方二维码。
-3. 微信收款：扫描下方二维码。
-4. PayPal账号：naibowang，也可以扫描下方二维码。
-
-You can support the author by clicking the **Sponsor** button at right side or pay via paypal: naibowang.
-
-![QRCodes](media/QRCODES.png)
-
 
 ## 文档/Documentation
 
